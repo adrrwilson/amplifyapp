@@ -1,1 +1,1 @@
-###Exploration of AWS using Amplify.
+Exploration of AWS using Amplify.
